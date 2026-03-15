@@ -1,8 +1,8 @@
-# Beaver Island Credits — Off-Grid Community Token Currency
+# Beaver Island Credits (BIC) — Off-Grid Community Token Currency
 
 **Created:** March 14, 2026
-**Context:** Fictional book project (ultra-realistic framing)
 **Setting:** Beaver Island, Michigan — 20–50 veteran co-op community
+**Acronym:** BIC
 
 ---
 
